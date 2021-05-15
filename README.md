@@ -17,15 +17,23 @@ Python, Javascript and Typescript are the languages I like the most and I strive
 - Creating discord bots with Python 
 <br/>
 
+### Languages
+
+- Portuguese (Brasil) <br/>
+- Basic English (EUA) <br/>
+<br/>
+
 <h2 style="font-weight: bold;">
 <a href="https://linktr.ee/soulfox" target="_blank">social networks</a>
 </h2> <br/>
 
+<h2 style="font-weight: bold;">My skills</h2> <br/>
 
-### Languages
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-soulfox&langs_count=8)](https://github.com/mr-soulfox/github-readme-stats)
 
-- Portugues (Brasil) <br/>
-- Inglês basico (EUA) <br/>
+</div>
 <br/>
 
 <h2 style="font-weight: bold;">Statistics</h2> 
@@ -34,12 +42,9 @@ Python, Javascript and Typescript are the languages I like the most and I strive
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-soulfox&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-soulfox&langs_count=8)](https://github.com/mr-soulfox/github-readme-stats)
-
 </div>
 
-<!--
-**VhCompany1/VhCompany1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
