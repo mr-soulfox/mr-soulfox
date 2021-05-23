@@ -9,7 +9,7 @@ Python, Javascript and Typescript are the languages I like the most and I strive
 </p>
 <br/>
 
-<h3 style="font-weight: bold;">Experiencias</h3>
+<h3 style="font-weight: bold;">Experiences</h3>
 
 - Building an API with Python using the flask micro-framework <br/>
 - Building front-end websites <br/>
