@@ -33,7 +33,9 @@ Python, Javascript and Typescript are the languages I like the most and I strive
 
 <h2 style="font-weight: bold;">
 <a href="https://linktr.ee/soulfox" target="_blank">social networks</a>
-</h2> <br/>
+</h2>
+
+<img align="center" src="https://github.com/mr-soulfox/mr-soulfox/blob/output/contribution-grid-snake.svg" />
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
