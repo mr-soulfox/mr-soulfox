@@ -1,10 +1,18 @@
 <h1 align="center" style="font-weight: bold;">Hello everyone</h1>
+<br/>
+
+<div style="display: inline-block" align="center">
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mr-soulfox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-soulfox&layout=compact&langs_count=16&theme=dracula" />
+</div>
+<br/>
 
 <h2 style="font-weight: bold;">About me</h2>
 <br/>
 
 <p style="margin-left: 15px; font-size: 1.2rem;">
-I have 15 years old. I study web development and game development, in the future I will study mobile and desktop application development. <br/>
+I study web development and game development, in the future I will study mobile and desktop application development. <br/>
 Python, Javascript and Typescript are the languages I like the most and I strive to improve. The next ones I will study, is PHP and Ruby for back-end and API development.
 </p>
 <br/>
@@ -26,23 +34,6 @@ Python, Javascript and Typescript are the languages I like the most and I strive
 <h2 style="font-weight: bold;">
 <a href="https://linktr.ee/soulfox" target="_blank">social networks</a>
 </h2> <br/>
-
-<h2 style="font-weight: bold;">My skills</h2> <br/>
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-soulfox&langs_count=8)](https://github.com/mr-soulfox/github-readme-stats)
-
-</div>
-<br/>
-
-<h2 style="font-weight: bold;">Statistics</h2> 
-<br/>
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-soulfox&show_icons=true&theme=radical)
-
-</div>
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
