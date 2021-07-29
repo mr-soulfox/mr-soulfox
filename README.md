@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Hello everyone</h1>
+<h1 align="center" style="font-weight: bold;">👋 Hello everyone 👋</h1>
 <br/>
 
 <div style="display: inline-block" align="center">
@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-<h2 style="font-weight: bold;">About me</h2>
+<h2 style="font-weight: bold;">About me 📝</h2>
 <br/>
 
 <p style="margin-left: 15px; font-size: 1.2rem;">
@@ -27,12 +27,12 @@ Python, Javascript and Typescript are the languages I like the most and I strive
 
 ### Languages
 
-- Portuguese (Brasil) <br/>
-- Basic English (EUA) <br/>
+- Portuguese (🇧🇷) <br/>
+- Basic English <br/>
 <br/>
 
 <h2 style="font-weight: bold;">
-<a href="https://linktr.ee/soulfox" target="_blank">social networks</a>
+<a href="https://linktr.ee/soulfox" target="_blank">social networks 📱</a>
 </h2>
 
 <img align="center" src="https://github.com/mr-soulfox/mr-soulfox/blob/output/contribution-grid-snake.svg" />
