@@ -31,9 +31,12 @@ Python, Javascript and Typescript are the languages I like the most and I strive
 - Basic English <br/>
 <br/>
 
-<h2 style="font-weight: bold;">
-<a href="https://linktr.ee/soulfox" target="_blank">social networks 📱</a>
-</h2>
+## Social networks 📱
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/marcos-paulo-b4630920b/)](https://www.linkedin.com/in/marcos-paulo-b4630920b/)
+[![RocketSeat](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/marcos-paulo-09979)](https://app.rocketseat.com.br/me/marcos-paulo-09979)
+[![Itchio](https://img.shields.io/badge/-Itch.io-6633cc?style=flat-square&logo=itch.io&logoColor=white&color=black&link=https://mr-soulfox.itch.io/)](https://mr-soulfox.itch.io/)
+<br/>
 
 <img align="center" src="https://github.com/mr-soulfox/mr-soulfox/blob/output/contribution-grid-snake.svg" />
 
