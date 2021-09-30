@@ -1,17 +1,19 @@
-name: Generate Datas
+name: Update snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  pull_request:
+  push:
+    branches:
+    - master
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    
     steps:
       # Snake Animation
       - uses: Platane/snk@master
         with:
-          github_user_name: mr-soulfox
-          svg_out_path: dist/contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-snake.gif
