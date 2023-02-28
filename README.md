@@ -43,8 +43,7 @@ I am a Fullstack developer and passionate about solving problems using technolog
 ![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D1117)&nbsp;
 ![CircleCI](https://img.shields.io/badge/CircleCI-0D1117?style=for-the-badge&logo=circleci&logoColor=white&labelColor=0D1117)&nbsp;
 
-<img align="center" src="https://github.com/mr-soulfox/mr-soulfox/blob/output/contribution-grid-snake.svg" />
-
+<img align="center" src="https://github.com/mr-soulfox/mr-soulfox/blob/output/github-contribution-grid-snake.svg" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=footer"/>
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
