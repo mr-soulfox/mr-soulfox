@@ -15,9 +15,6 @@ I am a Fullstack developer and passionate about solving problems using technolog
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-soulfox&layout=compact&hide_border=true&title_color=F9421A&text_color=C9D1D9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mr-soulfox&bg_color=0d1117&color=F9421A&line=F9421A&point=F9421A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center"> 
 <a href="https://instagram.com/myckeydrogado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://twitter.com/MyckeyDrogado" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
