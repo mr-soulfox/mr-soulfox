@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE;My+name+is+Marcos+Paulo;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE;My+name+is+Marcos+Paulo;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-I am a Fullstack developer and passionate about solving problems using technology, I am always looking to improve my skills, through projects and online courses. I have knowledge in Front-end and Back-end with Nodejs and Python, and i am pursuit to learning about Data Science/Machine Learning too.
+I am a Backend developer and passionate about solving problems using technology, I am always looking to improve my skills, through projects and online courses. I have knowledge in Back-end with Nodejs and Python, and i am pursuit to learning about Data Science/Machine Learning, Game Development too.
 </p><br/>
 
 <p align="center">
@@ -24,21 +24,15 @@ I am a Fullstack developer and passionate about solving problems using technolog
  </div>
 
 ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=white&labelColor=0D1117)&nbsp;
-![SAAS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![C#](https://img.shields.io/badge/C%20Sharp-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D1117)&nbsp;
-![CircleCI](https://img.shields.io/badge/CircleCI-0D1117?style=for-the-badge&logo=circleci&logoColor=white&labelColor=0D1117)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=0D1117)&nbsp;
 
 <img align="center" src="https://github.com/mr-soulfox/mr-soulfox/blob/output/github-contribution-grid-snake.svg" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=footer"/>
