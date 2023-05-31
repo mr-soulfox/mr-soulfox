@@ -1,14 +1,11 @@
 <img width=101% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE;My+name+is+Marcos+Paulo;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=OLÁ+TODO+MUNDO;Meu+nome+é+Marcos+Paulo;Tenho+18+anos;Sou+do+Brasil:%29)](https://git.io/typing-svg)
+ 
 
-[PT-BR](https://github.com/mr-soulfox/mr-soulfox/blob/main/README-PT.md)
+[EN-US](https://github.com/mr-soulfox/mr-soulfox/blob/main/README.md)
 <p align="center">
-I am a Backend developer and passionate about solving problems using technology, I am always looking to improve my skills, through projects and online courses. I have knowledge in Back-end with Nodejs and Python, and i am pursuit to learning about Data Science/Machine Learning, Game Development too.
-</p><br/> 
-
-<p align="center">
-I'm a Backend Developer and passionate about solving problems using technology, I am always looking to improve my skills, through projects and online courses. I have knowledge in Back-end with Nodejs and Python, and i am pursuit to learning about Data Science/Machine Learning, Game Development too.
+Sou <i>Backend Developer</i> e apaixonado por tecnologia, estou sempre procurando melhorar minhas habilidades, através de projetos pessoais nas minhas <i>stacks</i>. Tenho conhecimento NodeJS, Python & C# e curioso por <i>Data Science/Machine Learning</i> e <i>Game Development</i>.
 </p><br/>
 
 <p align="center">
@@ -34,7 +31,7 @@ I'm a Backend Developer and passionate about solving problems using technology, 
 ![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)&nbsp;
 
-### Learning:
+### Estudando no momento:
 ![C#](https://img.shields.io/badge/C%20Sharp-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=0D1117)&nbsp;
