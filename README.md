@@ -1,6 +1,6 @@
 <img width=101% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE;My+name+is+Marcos+Paulo;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE;My+name+is+Marcos+Paulo;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [PT-BR](https://github.com/mr-soulfox/mr-soulfox/blob/main/README-PT.md)
 <p align="center">
@@ -31,19 +31,16 @@ I'm a Backend Developer and passionate about solving problems using technology, 
 ### Stacks:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Learning:
-![C#](https://img.shields.io/badge/C%20Sharp-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
 
-<img align="center" src="https://github.com/mr-soulfox/mr-soulfox/blob/output/github-contribution-grid-snake.svg" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=footer"/>
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Snake > <img align="center" src="https://github.com/mr-soulfox/mr-soulfox/blob/output/github-contribution-grid-snake.svg" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
