@@ -4,12 +4,12 @@
 
 <div align="center">
 <a href="https://pop.system76.com/" target="_blank"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" target="_blank"></a> &nbsp;
-<a href="https://visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
+<a href="https://astronvim.com/" target="_blank"><img src="https://img.shields.io/badge/AstroNvim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
 </div>
 <br/>
 
 <p align="justify">
-I am a Backend developer and passionate about solving problems using technology, I am always looking to improve my skills, through projects and online courses. I have knowledge in Back-end with Nodejs and Python, and i am pursuit to learning about Data Science/Machine Learning, Game Development too.
+I am a Backend developer and passionate about solving problems using technology, I am always looking to improve my skills with through projects. I have knowledge in Back-end with Nodejs, Java and Golang. i am pursuit to learning about Data Science/Machine Learning with Python and Scala and Game Development too.
 </p><br/> 
 
 <div align="center">
@@ -18,6 +18,8 @@ I am a Backend developer and passionate about solving problems using technology,
 <a href="https://instagram.com/m1ckeydrogado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> &nbsp;
 <a href="https://twitter.com/MyckeyDrogado" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
 <a href="https://mr-soulfox.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
+<a href="https://dev.to/mr-soulfox" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
+<a href="https://mr-soulfox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> &nbsp;
  </div>
 
 <div align="center"> 
