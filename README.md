@@ -9,13 +9,13 @@
 <br/>
 
 <p align="justify">
-I am a Backend developer and passionate about solving problems using technology, I am always looking to improve my skills with through projects. I have knowledge in Back-end with Nodejs, Java and Golang. i am pursuit to learning about Data Science/Machine Learning with Python and Scala and Game Development too.
+I am a Backend Developer and passionate about solving problems using technology. I am always looking to improve my skills with through projects. I have knowledge in Back-end Java, Golang, NodeJS and Python. i am pursuit to learning about Data Science focused in Big Data with Python and Scala and Game Development with C++ too.
 </p><br/> 
 
 <div align="center">
 <a href = "mailto:mr.soulfox@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
 <a href="https://www.linkedin.com/in/marcosp-soulfox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
-<a href="https://instagram.com/m1ckeydrogado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> &nbsp;
+<a href="https://www.instagram.com/marcosp.mickey/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> &nbsp;
 <a href="https://twitter.com/MyckeyDrogado" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
 <a href="https://mr-soulfox.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
 <a href="https://dev.to/mr-soulfox" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
@@ -49,7 +49,6 @@ I am a Backend developer and passionate about solving problems using technology,
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-0D1117?style=for-the-badge&logo=Scala&logoColor=white&labelColor=0D1117)&nbsp;
 ![Golang](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117)&nbsp;
 
