@@ -4,8 +4,6 @@
 
 <div align="center">
 <a href="https://pop.system76.com/" target="_blank"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" target="_blank"></a> &nbsp;
-<a href="https://astronvim.com/" target="_blank"><img src="https://img.shields.io/badge/AstroNvim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
-</div>
 <br/>
 
 <p align="justify">
@@ -13,12 +11,14 @@ I am a Backend Developer and passionate about solving problems using technology.
 </p><br/> 
 
 <div align="center">
-<a href = "mailto:mr.soulfox@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
+<a href = "mailto:marcos@soulfox.dev"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
+ 
 <a href="https://www.linkedin.com/in/marcosp-soulfox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
+
 <a href="https://www.instagram.com/marcosp.mickey/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> &nbsp;
-<a href="https://twitter.com/MyckeyDrogado" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
-<a href="https://mr-soulfox.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
+
 <a href="https://dev.to/mr-soulfox" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
+
 <a href="https://mr-soulfox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> &nbsp;
  </div>
 
