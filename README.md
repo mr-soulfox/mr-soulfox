@@ -6,14 +6,16 @@
 <a href="https://fedoraproject.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white" target="_blank"></a> &nbsp;
 <a href="https://astronvim.com/" target="_blank"><img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" target="_blank"></a> &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a> &nbsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a> &nbsp;
 <br/>
 
 <p align="justify">
-I am a Backend Developer and passionate about solving problems using technology. I am always looking to improve my skills with through projects. I have knowledge in Back-end Java, Golang, NodeJS and Python. i am pursuit to learning about Data Science focused in Big Data with Python, R and Scala and Game Development with C++ too.
+I am a Developer in passionate with Backend Development with a strong foundation in various programming languages including Java, Go, NodeJS, Python, Scala, and R. I specialize in creating robust and efficient backend systems that power applications and services. I in pursuit to learning more about Data Science with Python, and Game Development with C++, Rust and GDScript (Godot).
 </p><br/> 
 
+<h1>Let's Connect<h1>
 <div align="center">
-<a href = "mailto:marcos@soulfox.dev"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
+<a href = "mailto:marcos@soulfox.dev"> <img src="https://img.shields.io/badge/mail-%23632CA6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;<a href = "https://soulfox.dev"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a> &nbsp;
 <a href="https://www.linkedin.com/in/marcosp-soulfox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
 <a href="https://www.instagram.com/marcosp.mickey/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> &nbsp;
 <a href="https://dev.to/mr-soulfox" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
@@ -26,30 +28,30 @@ I am a Backend Developer and passionate about solving problems using technology.
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-soulfox&layout=compact&hide_border=true&title_color=F9421A&text_color=C9D1D9&bg_color=0d1117" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-soulfox&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-## Stacks:
+## Skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)&nbsp;
-![GraphQL](https://img.shields.io/badge/graphql-0D1117?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0D1117)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=0D1117)&nbsp;
-![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0D1117)&nbsp;
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0D1117)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=white&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)&nbsp;
+![Golang](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)&nbsp;
+![Lua](https://img.shields.io/badge/lua-0D1117.svg?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/azure-0D1117.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/github%20actions-0D1117.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 
 ## Learning:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-0D1117.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-0D1117?style=for-the-badge&logo=Scala&logoColor=white&labelColor=0D1117)&nbsp;
 ![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=white&labelColor=0D1117)&nbsp;
-![Golang](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117)&nbsp;
+![Rust](https://img.shields.io/badge/rust-0D1117.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+![Elixir](https://img.shields.io/badge/elixir-0D1117.svg?style=for-the-badge&logo=elixir&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-0D1117.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Godot Engine](https://img.shields.io/badge/GODOT-0D1117.svg?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=footer"/>
 
