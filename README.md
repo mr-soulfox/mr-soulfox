@@ -1,9 +1,11 @@
 <img width=101% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE;My+name+is+Marcos+Paulo;I'm+from+Brazil;I'm+a+Backend+Engineer;Be+Welcome!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE;My+name+is+Marcos+Paulo;I'm+from+Brazil;I'm+a+Backend+Developer;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
-<a href="https://pop.system76.com/" target="_blank"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" target="_blank"></a> &nbsp;
+<a href="https://fedoraproject.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white" target="_blank"></a> &nbsp;
+<a href="https://astronvim.com/" target="_blank"><img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" target="_blank"></a> &nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a> &nbsp;
 <br/>
 
 <p align="justify">
