@@ -6,14 +6,14 @@
 <a href="https://fedoraproject.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white" target="_blank"></a> &nbsp;
 <a href="https://astronvim.com/" target="_blank"><img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" target="_blank"></a> &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a> &nbsp;
-<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a> &nbsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a> 
 <br/>
 
 <p align="justify">
 I am a Developer in passionate with Backend Development with a strong foundation in various programming languages including Java, Go, NodeJS, Python, Scala, and R. I specialize in creating robust and efficient backend systems that power applications and services. I in pursuit to learning more about Data Science with Python, and Game Development with C++, Rust and GDScript (Godot).
 </p><br/> 
 
-<h1>Let's Connect<h1>
+## Let's Connect
 <div align="center">
 <a href = "mailto:marcos@soulfox.dev"> <img src="https://img.shields.io/badge/mail-%23632CA6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;<a href = "https://soulfox.dev"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a> &nbsp;
 <a href="https://www.linkedin.com/in/marcosp-soulfox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> &nbsp;
