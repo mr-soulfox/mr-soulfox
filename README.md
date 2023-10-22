@@ -3,14 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=HELLO+EVERYONE;My+name+is+Marcos+Paulo;I'm+from+Brazil;I'm+a+Backend+Developer;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
-<a href="https://fedoraproject.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white" target="_blank"></a> &nbsp;
+<a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" target="_blank"></a> &nbsp;
 <a href="https://astronvim.com/" target="_blank"><img src="https://img.shields.io/badge/NeoVim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" target="_blank"></a> &nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a> &nbsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a> 
 <br/>
 
 <p align="justify">
-I am a Developer in passionate with Backend Development with a strong foundation in various programming languages including Java, Go, NodeJS, Python, Scala, and R. I specialize in creating robust and efficient backend systems that power applications and services. I in pursuit to learning more about Data Science with Python, and Game Development with C++, Rust and GDScript (Godot).
+I'm a passionate Back-end developer with a solid foundation in several programming languages, including Java, Go, Typescript/Javascript, Python and Scala. I specialize in creating robust and efficient systems that power applications and services. I'm looking to learn more about Data Science/Machine Learning with Python and R, game development with Rust and Zig for hobby and other back-end focused stacks such as Elixir with Phoenix Framework.
 </p><br/> 
 
 ## Let's Connect
@@ -36,7 +35,6 @@ I am a Developer in passionate with Backend Development with a strong foundation
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)&nbsp;
 ![Golang](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117)&nbsp;
 ![Lua](https://img.shields.io/badge/lua-0D1117.svg?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/azure-0D1117.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-0D1117.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
@@ -51,7 +49,7 @@ I am a Developer in passionate with Backend Development with a strong foundation
 ![Rust](https://img.shields.io/badge/rust-0D1117.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Elixir](https://img.shields.io/badge/elixir-0D1117.svg?style=for-the-badge&logo=elixir&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-0D1117.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Godot Engine](https://img.shields.io/badge/GODOT-0D1117.svg?style=for-the-badge&logo=godot-engine&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Zig-0D1117.svg?style=for-the-badge&logo=zig&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=footer"/>
 
